@@ -1,2 +1,0 @@
-# sixapp
- nihao
